@@ -2,7 +2,7 @@
 
 ![Snap](https://github.com/nevek-btw/wifi-password/assets/138080914/e0c23f6e-177e-4ca2-ba54-04a5dcec1b56)
 
-Este script en Python permite obtener las contraseñas de las redes Wi-Fi almacenadas en un sistema Windows. De una manera fácil y segura, siempre teniendo en cuenta que estás son funciones de **Administrador**. Tener en centa quien hará su uso.
+Este script en Python permite obtener las contraseñas de las redes Wi-Fi almacenadas en un sistema Windows. De una manera fácil y segura, siempre teniendo en cuenta que estás son funciones de **Administrador**. Tener en cuenta quien hará su uso.
 
 ## Funciones:
 
